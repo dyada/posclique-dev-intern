@@ -6,6 +6,8 @@ A ideia da avaliação é a seguinte: criar uma página fullscreen utilizando HT
 
 ## Design
 - A página deve seguir o [seguinte layout](01_teaser_teste.png)
+- O elemento poligonal não deve ser clicável e pode ser considerado parte do background
+- O PSD está disponível no projeto e organizado em pastas e camadas
 - Preocupe-se com a apresentação em desktops, mobile será um plus
 
 ## Interação
